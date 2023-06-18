@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maximeverreault
-- 👀 I’m interested in embedded automotive software engineering
-- 🌱 I’m currently learning self-hosted package manager solutions
+- 👀 I’m interested in embedded automotive software engineering, web development and DevOps
+- 🌱 I’m currently building a website for my company using NextJS, TailwindCSS, Prisma and Vercel
 - 📫 How to reach me... maximeverreault24@hey.com
 
 <!---
